@@ -1,6 +1,1 @@
-        with:
-          sdk: v5.11.1
-          bindings: geode-sdk/bindings
-          bindings-ref: main
-          combine: true
-          target: Android64
+          sdk: nightly
